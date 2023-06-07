@@ -17,20 +17,21 @@
         "terminal.integrated.persistentSessionScrollback": 1000
       },
       "extensions": [
-        "usernamehw.errorlens",
-        "bungcip.better-toml",
-        "formulahendry.code-runner",
-        "streetsidesoftware.code-spell-checker",
-        "jgoday.createtmpfile",
-        "esbenp.prettier-vscode",
-        "alefragnani.read-only-indicator",
-        "TabNine.tabnine-vscode",
-        "tonybaloney.vscode-pets",
-        "shyykoserhiy.vscode-spotify",
-        "swellaby.vscode-rust-test-adapter",
-        "Gruntfuggly.todo-tree",
-        "tshino.kb-macro"
-      ]
+		"usernamehw.errorlens",
+		"bungcip.better-toml",
+		"formulahendry.code-runner",
+		"streetsidesoftware.code-spell-checker",
+		"jgoday.createtmpfile",
+		"esbenp.prettier-vscode",
+		"alefragnani.read-only-indicator",
+		"TabNine.tabnine-vscode",
+		"tonybaloney.vscode-pets",
+		"shyykoserhiy.vscode-spotify",
+		"swellaby.vscode-rust-test-adapter",
+		"Gruntfuggly.todo-tree",
+		"tshino.kb-macro",
+		"auchenberg.vscode-browser-preview"
+	]
     }
   },
   "features": {
