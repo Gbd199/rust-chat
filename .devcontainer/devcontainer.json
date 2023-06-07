@@ -14,24 +14,35 @@
         "editor.formatOnSave": true,
         "terminal.integrated.defaultProfile.linux": "zsh",
         "createtmpfile.tmpDir": "/tmp",
-        "terminal.integrated.persistentSessionScrollback": 1000
+        "terminal.integrated.persistentSessionScrollback": 1000,
+        "cSpell.enabled": true,
+        "cSpell.diagnosticLevel": "Hint",
+        "cSpell.ignorePaths": [
+          "package-lock.json",
+          "node_modules",
+          "vscode-extension",
+          ".git/objects",
+          ".vscode",
+          ".vscode-insiders",
+          ".devcontainer"
+        ]
       },
       "extensions": [
-		"usernamehw.errorlens",
-		"bungcip.better-toml",
-		"formulahendry.code-runner",
-		"streetsidesoftware.code-spell-checker",
-		"jgoday.createtmpfile",
-		"esbenp.prettier-vscode",
-		"alefragnani.read-only-indicator",
-		"TabNine.tabnine-vscode",
-		"tonybaloney.vscode-pets",
-		"shyykoserhiy.vscode-spotify",
-		"swellaby.vscode-rust-test-adapter",
-		"Gruntfuggly.todo-tree",
-		"tshino.kb-macro",
-		"auchenberg.vscode-browser-preview"
-	]
+        "usernamehw.errorlens",
+        "bungcip.better-toml",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "jgoday.createtmpfile",
+        "esbenp.prettier-vscode",
+        "alefragnani.read-only-indicator",
+        "TabNine.tabnine-vscode",
+        "tonybaloney.vscode-pets",
+        "shyykoserhiy.vscode-spotify",
+        "swellaby.vscode-rust-test-adapter",
+        "Gruntfuggly.todo-tree",
+        "tshino.kb-macro",
+        "auchenberg.vscode-browser-preview"
+      ]
     }
   },
   "features": {
